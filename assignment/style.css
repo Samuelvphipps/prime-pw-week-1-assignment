@@ -8,7 +8,6 @@ header, footer{
     background-color: darkslategray;
 }
 /* Align the h1 containing your name in the center of the header*/
-/* I centered the whole header so the image and h1 would center */
 header {
     text-align: center;
     color:blanchedalmond
@@ -31,7 +30,7 @@ img{
 /* I created ".facts" class in article to change both my h3 heading and the ul so there wouldnt be a break in the background color */
 .facts{
     background-color: blanchedalmond;
-    font-family: Times, serif;
+    font-family: arial, Times, serif;
     color: rgb(7, 8, 8);
 }
 
