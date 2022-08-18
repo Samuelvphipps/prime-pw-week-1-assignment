@@ -15,7 +15,7 @@ touch "name.format" creates a file with the name and format type in the working 
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0   ie the version of git installed on computer
 # 8 - Why would you run the command 'git status'?
-to see if your changes have been put into the staging area prior to a commit
+To see if your changes have been put into the staging area prior to a commit
 # 9 - What does the command 'git add .' do?
 adds all files to the staging area for a commit
 # 10 - What is the command to push your committed changes to your repo on GitHub?
